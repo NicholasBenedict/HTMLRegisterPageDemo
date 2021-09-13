@@ -1,0 +1,71 @@
+.form
+{
+    height: 50%;
+    width: 35%;
+    background-color: white;
+    margin: 100px auto;
+    border-radius: 4px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(3, 171, 248);
+}
+input{
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    width: 50%;
+}
+
+#submitButton
+{
+    background-color: rgb(3, 171, 248);
+    border-radius: 4px;
+}
+
+hr{
+    background-color: gray;
+    height: 2px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+    overflow: hidden;
+    background-color: white;
+}
+li{
+    float: right;
+}
+
+li a{
+    display: block;
+    background-color: rgb(3, 171, 248);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    margin: 5px;
+    
+}
+label
+{
+    text-align: center;
+}
+
+#title{
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: auto;
+}
+
+.icon{
+    height: 50px;
+    width: 50px;
+    margin: 20px auto;
+    justify-content: center;
+    float: inherit;
+}
